@@ -1,184 +1,185 @@
-# 🎮 Video Game Sales Dashboard | Microsoft Excel
+<div align="center">
+
+# 🎮 Video Game Sales Dashboard
+
+### Interactive Microsoft Excel Dashboard for Global Video Game Sales Analysis
+
+<p>
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</p>
+
+Transforming raw sales data into interactive business insights using Microsoft Excel.
+
+</div>
+
+---
+
+# 📚 Table of Contents
+
+- [Overview](#-overview)
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Objectives](#-project-objectives)
+- [Dataset](#-dataset)
+- [Tools & Technologies](#-tools--technologies)
+- [Dashboard Features](#-dashboard-features)
+- [Key Performance Indicators](#-key-performance-indicators)
+- [Business Questions Answered](#-business-questions-answered)
+- [Repository Structure](#-repository-structure)
+- [How to Use](#-how-to-use)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Future Improvements](#-future-improvements)
+- [Author](#-author)
+
+---
+
+# 📖 Overview
+
+The **Video Game Sales Dashboard** is an interactive Microsoft Excel project that analyzes global video game sales across different platforms, publishers, genres, regions, and release years.
+
+The dashboard transforms raw data into meaningful visualizations, helping users identify sales trends, compare performance, and explore business insights through interactive filtering.
+
+---
+
+# 📸 Dashboard Preview
+
+## Dashboard Overview
 
 <p align="center">
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Project](https://img.shields.io/badge/Project-Data%20Analytics-blue?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+<img src="Images/Dashboard_Overview.PNG" width="900">
 
 </p>
 
 ---
 
-# 📖 Project Overview
+## Dashboard Insights
 
-The **Video Game Sales Dashboard** is an interactive Microsoft Excel project designed to transform raw video game sales data into meaningful business insights.
+<p align="center">
 
-Using Pivot Tables, Pivot Charts, Slicers, KPIs, and dynamic visualizations, this dashboard allows users to analyze sales performance across publishers, platforms, genres, release years, and global regions.
+<img src="Images/Dashboard_Insights.PNG" width="900">
 
-This project demonstrates practical Excel skills commonly used by Data Analysts for reporting, dashboard development, and business intelligence.
-
----
-
-# 🎯 Business Problem
-
-Organizations often possess large volumes of sales data that are difficult to interpret without visualization.
-
-This project addresses that challenge by creating an interactive dashboard that enables users to:
-
-- Identify top-performing publishers
-- Compare platform performance
-- Analyze genre popularity
-- Track yearly sales trends
-- Understand regional sales distribution
-- Support data-driven decision making
+</p>
 
 ---
 
 # 🎯 Project Objectives
 
 - Build an interactive Excel dashboard
-- Perform sales trend analysis
-- Analyze platform-wise performance
-- Compare publisher sales
-- Evaluate genre popularity
-- Visualize regional sales
-- Present insights through KPIs and charts
+- Analyze global video game sales
+- Compare publisher performance
+- Compare platform performance
+- Analyze genre popularity
+- Visualize yearly sales trends
+- Present KPIs for business reporting
 
 ---
 
-# 📂 Dataset Information
+# 📂 Dataset
 
-The dataset contains information about global video game sales, including:
+The project uses a video game sales dataset containing:
 
-- 🎮 Game Name
-- 🖥 Platform
-- 🎯 Genre
-- 🏢 Publisher
-- 📅 Release Year
-- 🌎 North America Sales
-- 🌍 Europe Sales
-- 🌏 Japan Sales
-- 🌐 Other Region Sales
-- 📊 Global Sales
+| Category | Description |
+|----------|-------------|
+| 🎮 Game | Video Game Name |
+| 🖥 Platform | Gaming Platform |
+| 🎯 Genre | Game Category |
+| 🏢 Publisher | Publishing Company |
+| 📅 Year | Release Year |
+| 🌍 Sales | Regional & Global Sales |
 
----
+Additional summary datasets generated during analysis include:
 
-# 🧹 Data Preparation
-
-The following data preparation steps were performed before dashboard creation:
-
-- Data Cleaning
-- Duplicate Checking
-- Data Validation
-- Pivot Table Creation
-- Summary Table Generation
-- KPI Calculation
-- Dashboard Structuring
+- Genre Summary
+- Platform Summary
+- Publisher Summary
+- Yearly Trends
 
 ---
 
-# 🛠 Tools & Excel Features Used
+# 🛠 Tools & Technologies
 
-### Microsoft Excel
+## Software
+
+- Microsoft Excel
+
+## Excel Features
 
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Timeline Filters
 - Conditional Formatting
-- Named Ranges
-- Cell Formatting
-- Excel Formulas
 - Data Validation
-- Interactive Dashboard Design
+- Excel Formulas
 
 ---
 
-# 📊 Dashboard Preview
+# 📊 Dashboard Features
 
-## Dashboard Overview
-
-![Dashboard Overview](Images/Dashboard_Overview.PNG)
-
----
-
-## Dashboard Insights
-
-![Dashboard Insights](Images/Dashboard_Insights.PNG)
-
----
-
-# 📌 Key Performance Indicators (KPIs)
-
-The dashboard provides quick access to important business metrics, including:
-
-- 📈 Total Global Sales
-- 🎮 Total Games
-- 🏆 Best Selling Publisher
-- 🖥 Best Performing Platform
-- 🎯 Most Popular Genre
-- 📅 Sales by Release Year
-- 🌎 Regional Sales Distribution
+- 📌 Interactive KPI Cards
+- 📈 Dynamic Pivot Charts
+- 🎛 Interactive Slicers
+- 🎮 Platform Analysis
+- 🏢 Publisher Analysis
+- 🎯 Genre Analysis
+- 🌎 Regional Sales Analysis
+- 📅 Year-wise Sales Trends
 
 ---
 
-# 📈 Dashboard Features
+# 📌 Key Performance Indicators
 
-✅ Interactive Slicers
+The dashboard highlights important business metrics including:
 
-✅ Dynamic Pivot Charts
-
-✅ KPI Cards
-
-✅ Platform Analysis
-
-✅ Publisher Analysis
-
-✅ Genre Analysis
-
-✅ Regional Sales Analysis
-
-✅ Year-wise Trend Analysis
-
-✅ Interactive Dashboard Navigation
-
-✅ Professional Dashboard Layout
+- Total Global Sales
+- Total Games
+- Top Publisher
+- Best Platform
+- Best Selling Genre
+- Regional Sales Distribution
+- Year-wise Sales Trends
 
 ---
 
-# 💡 Key Business Insights
+# 💡 Business Questions Answered
 
 This dashboard helps answer questions such as:
 
-- Which publisher generated the highest global sales?
-- Which gaming platform has the strongest market performance?
-- Which genre is the most successful?
-- How have video game sales changed over time?
-- Which regions contribute the highest revenue?
-- What trends can be observed across different years?
+- Which publisher generated the highest sales?
+- Which gaming platform performed the best?
+- Which genre is the most popular?
+- How have sales changed over time?
+- Which region contributes the most to global sales?
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 video-game-sales-excel-dashboard/
 
-│── README.md
-│── video-game-sales-excel-dashboard.xlsx
-
-├── Dataset/
+│
+├── Dataset
 │   ├── games.csv
 │   ├── genre_summary.csv
 │   ├── platform_summary.csv
 │   ├── publisher_summary.csv
-│   └── yearly_trends.csv
-
-└── Images/
-    ├── Dashboard_Overview.PNG
-    └── Dashboard_Insights.PNG
+│   ├── yearly_trends.csv
+│   └── readme.md
+│
+├── Images
+│   ├── Dashboard_Overview.PNG
+│   ├── Dashboard_Insights.PNG
+│   └── README.md
+│
+├── README.md
+│
+└── video-game-sales-excel-dashboard.xlsx
 ```
 
 ---
@@ -186,80 +187,56 @@ video-game-sales-excel-dashboard/
 # 🚀 How to Use
 
 1. Download the Excel workbook.
-2. Open the workbook in Microsoft Excel (2019 or later recommended).
-3. Navigate to the Dashboard worksheet.
-4. Use the interactive slicers to filter the data.
-5. Explore KPIs, charts, and business insights.
+2. Open it using Microsoft Excel (2019 or later recommended).
+3. Navigate to the dashboard worksheet.
+4. Use the slicers to filter data interactively.
+5. Explore charts, KPIs, and business insights.
 
 ---
 
 # 🎓 Skills Demonstrated
 
-### Data Analytics
+### Data Analysis
 
 - Data Cleaning
-- Data Transformation
 - Data Validation
 - Data Analysis
+- KPI Development
 
 ### Dashboard Development
 
-- Interactive Dashboard Design
-- KPI Development
-- Business Reporting
-- Data Visualization
-
-### Microsoft Excel
-
+- Dashboard Design
 - Pivot Tables
 - Pivot Charts
-- Slicers
-- Conditional Formatting
-- Advanced Formatting
-- Formula-Based Analysis
+- Interactive Reporting
+- Data Visualization
 
 ### Business Intelligence
 
+- Sales Analysis
 - Trend Analysis
-- Performance Analysis
-- Sales Reporting
-- Decision Support
+- Performance Reporting
+- Business Insights
 
 ---
 
-# 📚 Learning Outcomes
+# 🚀 Future Improvements
 
-Through this project, I strengthened my understanding of:
-
-- Dashboard design principles
-- Interactive reporting in Excel
-- KPI development
-- Sales data analysis
-- Business insight generation
-- Data visualization best practices
-
----
-
-# 🔮 Future Enhancements
-
-Future versions of this project may include:
-
-- Power BI Dashboard
+- Power BI Dashboard Version
 - SQL Integration
 - Automated Data Refresh
-- Forecasting Models
-- Python-Based Data Analysis
-- Interactive Business Reports
+- Forecasting Dashboard
+- Python Analytics Version
 
 ---
 
-# 👨‍💻 About the Author
+# 👨‍💻 Author
 
-**Abhinay Reddy Tippireddy**
+## ABHINAY REDDY TIPPIREDDY
 
-🎓 B.Tech – Computer Science & Engineering (Data Science)
+**B.Tech – Computer Science & Engineering (Data Science)**
 
-💼 Aspiring Data Analyst
+📊 Aspiring Data Analyst
 
 ### Connect with Me
 
@@ -268,16 +245,10 @@ Future versions of this project may include:
 
 ---
 
-# ⭐ Support
+<div align="center">
 
-If you found this project useful or interesting, consider giving the repository a **⭐ Star**.
+### ⭐ If you like this project, consider giving it a star!
 
-It motivates me to continue building and sharing data analytics projects.
+Thank you for visiting my repository.
 
----
-
-## 📌 Project Status
-
-**✔ Completed**
-
-This project is part of my Data Analytics Portfolio and demonstrates practical Microsoft Excel skills for data analysis, dashboard development, and business reporting.
+</div>
