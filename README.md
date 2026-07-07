@@ -169,13 +169,11 @@ video-game-sales-excel-dashboard/
 │   ├── genre_summary.csv
 │   ├── platform_summary.csv
 │   ├── publisher_summary.csv
-│   ├── yearly_trends.csv
-│   └── readme.md
+│   └── yearly_trends.csv
 │
 ├── Images
 │   ├── Dashboard_Overview.PNG
-│   ├── Dashboard_Insights.PNG
-│   └── README.md
+│   └──  Dashboard_Insights.PNG
 │
 ├── README.md
 │
