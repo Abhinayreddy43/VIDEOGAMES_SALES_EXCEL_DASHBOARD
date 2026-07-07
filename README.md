@@ -164,16 +164,16 @@ This dashboard helps answer questions such as:
 video-game-sales-excel-dashboard/
 
 │
-├── Dataset
-│   ├── games.csv
-│   ├── genre_summary.csv
-│   ├── platform_summary.csv
-│   ├── publisher_summary.csv
-│   └── yearly_trends.csv
+├── Dataset  
+│   ├── Genre Summary.csv
+│   ├── Platform Summary.csv
+│   ├── Publisher Summary.csv
+|   ├── Yearly Trends.csv
+│   └── games.csv
 │
 ├── Images
-│   ├── Dashboard_Overview.PNG
-│   └──  Dashboard_Insights.PNG
+│   ├── Insights Dashboard.PNG
+│   └── Overview Dashboard.PNG
 │
 ├── README.md
 │
