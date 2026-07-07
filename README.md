@@ -47,22 +47,19 @@ The dashboard transforms raw data into meaningful visualizations, helping users 
 
 # 📸 Dashboard Preview
 
-## Dashboard Overview
+### Dashboard Insights
 
 <p align="center">
-
-<img src="Images/Dashboard_Overview.PNG" width="900">
-
+  <img src="./Images/Insights%20Dashboard.PNG" width="95%">
 </p>
-
 ---
 
-## Dashboard Insights
+## 📸 Dashboard Preview
+
+### Dashboard Overview
 
 <p align="center">
-
-<img src="Images/Dashboard_Insights.PNG" width="900">
-
+  <img src="./Images/Overview%20Dashboard.PNG" width="95%">
 </p>
 
 ---
